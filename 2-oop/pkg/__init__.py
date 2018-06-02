@@ -1,0 +1,2 @@
+def inInt():
+    print('yy')
